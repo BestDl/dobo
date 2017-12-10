@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="094fd838-2bb2-4e83-9156-c3e331bca88a" name="Default" comment="" />
+    <list default="true" id="094fd838-2bb2-4e83-9156-c3e331bca88a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/widget/config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/api.css" afterPath="$PROJECT_DIR$/widget/css/api.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/html/main.html" afterPath="$PROJECT_DIR$/widget/html/main.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/icon/icon150x150.png" afterPath="$PROJECT_DIR$/widget/icon/icon150x150.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/image/loading_more.gif" afterPath="$PROJECT_DIR$/widget/image/loading_more.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/widget/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/launch/launch1080x1920.png" afterPath="$PROJECT_DIR$/widget/launch/launch1080x1920.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/api.js" afterPath="$PROJECT_DIR$/widget/script/api.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +23,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/widget/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +43,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/widget/config.xml" />
       </list>
     </option>
   </component>
@@ -31,7 +53,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1932" />
@@ -60,6 +82,11 @@
             <path>
               <item name="dobo" type="b2602c69:ProjectViewProjectNode" />
               <item name="dobo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dobo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dobo" type="462c0819:PsiDirectoryNode" />
+              <item name="widget" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -97,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512912046562</updated>
-      <workItem from="1512912054943" duration="1824000" />
+      <workItem from="1512912054943" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="第一次代码上传了">
       <created>1512912544531</created>
@@ -131,12 +158,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1824000" />
+    <option name="totallyTimeSpent" value="2129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -176,6 +204,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
